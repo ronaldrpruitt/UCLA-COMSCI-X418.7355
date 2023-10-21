@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.exe
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.deps.json
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.dll
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\bin\Debug\netcoreapp3.1\A5_PruittRon.pdb
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\obj\Debug\netcoreapp3.1\A5_PruittRon.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\obj\Debug\netcoreapp3.1\A5_PruittRon.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\obj\Debug\netcoreapp3.1\A5_PruittRon.dll
+C:\Users\Administrator\Desktop\Ucla\Week6\A5_PruittRon\obj\Debug\netcoreapp3.1\A5_PruittRon.pdb
