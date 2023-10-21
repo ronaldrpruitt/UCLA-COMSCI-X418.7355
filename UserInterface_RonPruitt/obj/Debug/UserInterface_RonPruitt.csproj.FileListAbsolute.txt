@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\bin\Debug\UserInterface_RonPruitt.exe.config
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\bin\Debug\UserInterface_RonPruitt.exe
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\bin\Debug\UserInterface_RonPruitt.pdb
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.DisplayForm.resources
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.FormA.resources
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.FormB.resources
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.exe
+C:\Users\Administrator\Desktop\Ucla\Week2\UserInterface_RonPruitt\obj\Debug\UserInterface_RonPruitt.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\Ucla\Week1\ronpruitt_firstapp\ronpruitt_firstapp\bin\Debug\ronpruitt_firstapp.exe.config
+C:\Users\Administrator\Desktop\Ucla\Week1\ronpruitt_firstapp\ronpruitt_firstapp\bin\Debug\ronpruitt_firstapp.exe
+C:\Users\Administrator\Desktop\Ucla\Week1\ronpruitt_firstapp\ronpruitt_firstapp\bin\Debug\ronpruitt_firstapp.pdb
+C:\Users\Administrator\Desktop\Ucla\Week1\ronpruitt_firstapp\ronpruitt_firstapp\obj\Debug\ronpruitt_firstapp.exe
+C:\Users\Administrator\Desktop\Ucla\Week1\ronpruitt_firstapp\ronpruitt_firstapp\obj\Debug\ronpruitt_firstapp.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ronpruitt_usearray/1.0.0": {
+        "runtime": {
+          "ronpruitt_usearray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ronpruitt_usearray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

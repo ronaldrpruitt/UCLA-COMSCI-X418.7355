@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\obj\Debug\netcoreapp3.1\ronpruitt_usearray.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\obj\Debug\netcoreapp3.1\ronpruitt_usearray.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\obj\Debug\netcoreapp3.1\ronpruitt_usearray.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.exe
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.deps.json
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.dll
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\bin\Debug\netcoreapp3.1\ronpruitt_usearray.pdb
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\obj\Debug\netcoreapp3.1\ronpruitt_usearray.dll
+C:\Users\Administrator\Desktop\Ucla\Week4\ronpruitt_usearray\obj\Debug\netcoreapp3.1\ronpruitt_usearray.pdb
