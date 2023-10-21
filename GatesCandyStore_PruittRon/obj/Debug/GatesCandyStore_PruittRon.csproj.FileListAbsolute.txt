@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\bin\Debug\GatesCandyStore_PruittRon.exe.config
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\bin\Debug\GatesCandyStore_PruittRon.exe
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\bin\Debug\GatesCandyStore_PruittRon.pdb
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.CandyForm.resources
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.MainCandyStore.resources
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.exe
+C:\Users\Administrator\Desktop\Ucla\Midterm\GatesCandyStore_PruittRon\obj\Debug\GatesCandyStore_PruittRon.pdb
