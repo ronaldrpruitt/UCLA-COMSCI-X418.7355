@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.exe
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.deps.json
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.runtimeconfig.json
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.dll
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\bin\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.pdb
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\obj\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\obj\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\obj\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.dll
+C:\Users\Administrator\Desktop\Ucla\Week3\CreateVehicle_RonPruitt\obj\Debug\netcoreapp3.1\CreateVehicle_RonPruitt.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreateVehicle_RonPruitt/1.0.0": {
+        "runtime": {
+          "CreateVehicle_RonPruitt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateVehicle_RonPruitt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
